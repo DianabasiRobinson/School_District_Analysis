@@ -1,10 +1,8 @@
 # SCHOOL DISTRICT ANALYSIS
 
 ## PROJECT OVERVIEW
-This project involves a standardized test data for the analysis of the student's tests scores, student's funding, school types and the school sizes to provides insights to the school board on strategic decisions regarding the school budgets and priorities. 
-key THS - thomas high school
-The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
-
+This project involves a standardized test data for the analysis of the student's tests scores, student's funding, school types and the school sizes from all the schools in the city district to provides insights to the school board on strategic decisions regarding the school budgets and priorities. 
+After we finished our first findings, we removed and replaced the 9th grade test scores from Thomas High School(THS) because of an issue involving academic integrity. We then perform the same analyses on the new data with the Thomas High 9th grade scores removed to see if there was any impact. 
 
 ## RESULTS
 ###  How is the district summary affected?
@@ -102,3 +100,8 @@ After replacing 9th grade THS scores
  There are insignificant changes in charter schools' performance. In general, replacing the ninth-grade Thomas High School scores did not significantly affect scores by school type.
   
 ## SUMMARY
+
+- The introduction of NAN is an effective way to capture inconsistencies in a dataset.
+- School spending ranges per student do not impact math and reading scores.
+- The larger the school size, the lower the test scores and percentage of overall students passing. Therefore, the testing scores is directly influence by School size. 
+- Charter Schools performance is better than those of District Schools with higher testing scores and percentages of overall students passing.
