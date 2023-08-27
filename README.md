@@ -1,9 +1,8 @@
 # SCHOOL DISTRICT ANALYSIS
 
 ## PROJECT OVERVIEW
-This project involves a standardized test data for the analysis of the student's tests scores, student's funding, school types and the school sizes from all the schools in the city district to provides insights to the school board on strategic decisions regarding the school budgets and priorities. 
-After we finished our first findings, we removed and replaced the 9th grade test scores from Thomas High School(THS) because of an issue involving academic integrity. We then perform the same analyses on the new data with the Thomas High 9th grade scores removed to see if there was any impact. 
-
+This project involves standardized test data for the analysis of students' test scores, student funding, school types, and school sizes from all the schools in the city district. Its aim is to provide insights to the school board for making strategic decisions regarding school budgets and priorities.
+After I finished my initial findings, I removed and replaced the 9th-grade test scores from Thomas High School (THS) due to an issue related to academic integrity. I then performed the same analyses on the new data with the Thomas High 9th-grade scores removed to determine if there was any impact.
 ## RESULTS
 ###  How is the district summary affected?
 The initial district summary is shown below;
